@@ -46,7 +46,7 @@ const Aboutme = () => {
 
   <p className="text-lg md:text-xl text-gray-400 leading-relaxed">
     Passionate Front-End Developer skilled in <span className="text-indigo-400 font-semibold">Angular</span>, <span className="text-cyan-400 font-semibold">React</span>, 
-    and web technologies including HTML, CSS, JavaScript, and TypeScript. I specialize in building responsive, user-friendly web applications with clean, efficient code and dynamic interfaces. With experience in React Native and Material-UI, I strive to deliver seamless user experiences while continuously learning and growing in the field of web development.
+    and web technologies including HTML, CSS, JavaScript, and TypeScript. I specialize in building responsive, user-friendly web applications with clean, efficient code and dynamic interfaces. With experience in Material-UI, I strive to deliver seamless user experiences while continuously learning and growing in the field of web development.
   </p>
 
   <div className="flex flex-col sm:flex-row gap-4 mt-6 justify-start">
